@@ -9,11 +9,11 @@
     <div class="wrapper">
 	
 	<?php
-require('header.php');
+require('../header.php');
 ?>
 
       	<?php
-require('nav.php');
+require('../nav.php');
 ?>
 
 		
@@ -66,7 +66,7 @@ require('nav.php');
 		</main>
 	
 	      	<?php
-require('footer.php');
+require('../footer.php');
 ?>
 		
 	</div>
